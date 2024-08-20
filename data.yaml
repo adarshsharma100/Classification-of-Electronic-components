@@ -1,0 +1,4 @@
+train: C:\Users\ADARSH SHARMA\Downloads\electronic\train\images
+val: C:\Users\ADARSH SHARMA\Downloads\electronic\valid\images
+nc: 3
+names: ["capacitor","IC","Led"]
